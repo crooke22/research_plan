@@ -11,3 +11,9 @@
 1. 目前进展：Currently studying Convolutional Neural Network
 2. 存在问题：Right now 2 exams coming up，有时候不理解AndrewNg的课程，搭配Google 的machine Learning 课程来一起学习.
 3. 下周计划：开始做师兄安排的论文读，开始科研训练
+
+### 2026.06.15 - 2026.06.21
+#### 周期目标：
+1. 目前进展：学完了deep learning
+2. 存在问题：目前还有3门考试要考，需要复习时间。
+3. 下周计划：开始跟师兄科研训练。
